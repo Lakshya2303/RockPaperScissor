@@ -1,0 +1,5 @@
+1.Winning Streaks:
+Showing a winning streak count somewhere in the UI could add an extra layer of competition.
+
+2.Game Stats/Leaderboards:
+A future enhancement could be adding a leaderboard or keeping track of player wins and losses. It could help make the game more competitive and engaging over multiple rounds.
